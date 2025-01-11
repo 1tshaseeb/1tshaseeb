@@ -1,11 +1,13 @@
+<h1 align="left">hey there 👋</h1>
+
 ###
 
 <div align="center">
-  <a href="https://x.com/1tsHaseeb" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/1tshaseeb" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/1tsHaseeb" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 </div>
 
@@ -17,19 +19,15 @@
 
 ###
 
-<h1 align="center">hey there 👋 I am haseeb</h1>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I’m a self-hosting enthusiast passionate about servers, networking, and tinkering</p>
+<p align="left">I'm a self-taught tech enthusiast with hands-on experience in server management, networking, and self-hosting. Starting from scratch, I’ve built and optimized systems like firewalls, DNS servers, media libraries, and search engines, focusing on privacy, efficiency, and control</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Tools</h3>
 
 ###
 
@@ -41,8 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
 
 ###
